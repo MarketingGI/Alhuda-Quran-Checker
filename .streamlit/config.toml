@@ -1,0 +1,16 @@
+[server]
+address = "localhost"
+port = 8501
+headless = false
+maxUploadSize = 2000
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+
+[theme]
+base = "light"
+primaryColor = "#0b7a4b"
+
+[client]
+toolbarMode = "viewer"

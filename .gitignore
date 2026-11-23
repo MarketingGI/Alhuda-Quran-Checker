@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+output/
+~test-file/
+node_modules/
+*.exe
+rahasia.env
+*.env
+keys/

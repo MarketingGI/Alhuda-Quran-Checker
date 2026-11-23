@@ -1,0 +1,6 @@
+[build]
+  publish = "public"
+  command = "echo siap"
+
+[functions]
+  directory = "netlify/functions"
